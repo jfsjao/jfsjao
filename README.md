@@ -2,7 +2,6 @@
 
 - Hoje curso Sistema de Informação na UFU
 - Estudo JAVA direcionado para android e JS para WEB
-<center>
 ![jf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfsjao&show_icons=true)
 
 <div>
@@ -17,5 +16,5 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
 </div>
 </div>
-</center>
+
 
