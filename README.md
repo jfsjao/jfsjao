@@ -1,7 +1,7 @@
-# Oi meu nome é João Felipe, mas pode me chamar de jf
+# João Silva
 
-- Hoje curso Sistema de Informação na UFU
-- Estudo JAVA direcionado para android e JS para WEB
+- Graduando em Sistema de Informação na UFU
+- Dessenvolvendo e apredendo, afim de contribuir cada vez mais ao mercado de TI
 <div align = "center">
 
   
