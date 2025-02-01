@@ -8,8 +8,6 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -31,4 +29,6 @@
 
 ---
 
-### "Always pass on what you have learned"
+<div align="center">
+  ### "Always pass on what you have learned"
+</div>
