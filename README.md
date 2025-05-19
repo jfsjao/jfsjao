@@ -4,6 +4,7 @@
 
 🎓 Graduando em **Sistemas de Informação** na **Universidade Federal de Uberlândia (UFU)**.<br>
 🚀 Focado em aprender através de desafios para expandir meus conhecimentos e habilidades.<br>
+👨🏿‍💻 Desenvolvedor em progressso, FullStack e BackEnd <br>
 🔍 Apaixonado por tecnologia, desenvolvimento web e inovação digital.
 
 
