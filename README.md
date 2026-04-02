@@ -20,7 +20,6 @@
   <img align="center" alt="Oracle" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="AI" height="40" src="https://cdn.simpleicons.org/openai">
 </div>
 <br>
 
@@ -29,6 +28,6 @@
   <a href="https://www.linkedin.com/in/joao-silva-jfs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### "Always pass on what you have learned"
+### "Só existe evolução porque existem fraquezas" - BK
 
 </div>
